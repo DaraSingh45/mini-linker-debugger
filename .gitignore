@@ -1,0 +1,5 @@
+build/
+mylink
+mydbg
+*.o
+*.a
